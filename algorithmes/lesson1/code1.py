@@ -1,3 +1,8 @@
+"""
+lesson1
+
+author@: martialo12
+"""
 
 
 def main():
